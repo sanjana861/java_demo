@@ -4,7 +4,7 @@ public class TypeCastingExample {
 
 	public static void main(String[] args) {
 		int a = 10;
-        double b = a;  // int → double
+        double b = a;  
         System.out.println("Implicit Casting:");
         System.out.println("Integer value: " + a);
         System.out.println("Double value (after Implicit Casting): " + b);
