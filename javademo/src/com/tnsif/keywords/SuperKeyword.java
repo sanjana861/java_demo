@@ -1,10 +1,10 @@
 package com.tnsif.keywords;
 
-class Keys{
+class Key{
 	int a=10;
 }
 
-class key1 extends Keys{
+class key1 extends Key{
 	int a =20;
 	public void show() {
 		int a = 40;
